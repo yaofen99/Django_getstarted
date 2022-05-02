@@ -13,9 +13,10 @@
       <change afterPath="$PROJECT_DIR$/../AA/AA/AA/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AA/AA/AA/spiders/content.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CUDA_Freshman-master/.idea/CUDA_Freshman-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject_local/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject_local/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject_local/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject_local/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +133,7 @@
       <workItem from="1651198841028" duration="7373000" />
       <workItem from="1651212623219" duration="3900000" />
       <workItem from="1651219579825" duration="1426000" />
+      <workItem from="1651494538721" duration="551000" />
     </task>
     <servers />
   </component>
