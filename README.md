@@ -1,2 +1,2 @@
 # Django_getstarted
-For django practice
+Pure Django practise project.
